@@ -1,0 +1,45 @@
+
+{
+    "products" : [
+        {
+            "id"            : 1,
+            "name"          : "T-Shirt",
+            "price"         :800,
+            "sale_price"    : 500,
+            "photo"         : "https://priyoshopbackup.blob.core.windows.net/priyoshop/content/Images/Thumbs/0235539_half-sleeve-cotton-t-shirt-for-men-mb48_415.jpeg"
+            
+        },
+        {
+            "id"            : 2,
+            "name"          : "T-Shirt",
+            "price"         : 1000,
+            "sale_price"    : 700,
+            "photo"         : "https://m.media-amazon.com/images/I/61MSZWTT3IL._UY550_.jpg"
+            
+        },
+        {
+            "id"            : 3,
+            "name"          : "T-Shirt",
+            "price"         : 900,
+            "sale_price"    : 600,
+            "photo"         : "https://imgaz1.chiccdn.com/thumb/large/oaupload/newchic/images/D6/52/fd0437e1-c99e-4935-b1f6-6f0371640b93.jpg?s=702x936"
+            
+        },
+        {
+            "id"            : 4,
+            "name"          : "T-Shirt",
+            "price"         : 800,
+            "sale_price"    : 500,
+            "photo"         : "http://ae01.alicdn.com/kf/HTB17LV.ntfJ8KJjy0Feq6xKEXXa7.jpg_q50.jpg"
+            
+        },
+        {
+            "id"            : 5,
+            "name"          : "T-Shirt",
+            "price"         : 800,
+            "sale_price"    : 500,
+            "photo"         : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQea8hBZFrP5IALhamCqUpDlVQKDuh2Zi1yqKcyepXo2mRNVLAKDBXsmQgaR9wrvMy90uE&usqp=CAU"
+            
+        }
+    ]
+}
